@@ -1,8 +1,8 @@
 - <h1 align="center">Hi 👋, I'm Arkadiusz</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate Full Stack Developer from Poland</h3>
 
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on Node
 - 🌱 I’m currently learning full-stack web development
 - 👯 I’m looking to collaborate on **open-source projects** or **innovative web apps** that make life easier for developers or users.
 - 🤔 I’m looking for help with **optimizing backend performance** and **best practices in database architecture**.

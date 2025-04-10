@@ -6,8 +6,8 @@
 
 ### 🔎 Who I Am
 
-I'm **Aric**, a developer from Poland who enjoys building smart, efficient, and user-friendly web applications.  
-I thrive in the space where clean frontend meets solid backend.
+I'm Aric, a developer from Poland passionate about building real-world solutions with clean code and thoughtful architecture.  
+I build full-stack web applications, combining responsive frontends with well-structured, scalable backends.
 
 I believe good code is like good design — invisible when it works right.
 

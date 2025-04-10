@@ -23,8 +23,9 @@ I believe good code is like good design — invisible when it works right.
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
+Here are some of the projects I've built from scratch:
 
 #### 🧑‍💼 **User Explorer**
 A modern frontend application built entirely with **vanilla JavaScript** – no frameworks.  

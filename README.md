@@ -15,7 +15,7 @@ I believe good code is like good design — invisible when it works right.
 
 ### 🚧 What I’m Working On
 
-- Full-stack web applications using modern JavaScript technologies  
+- Full-stack web applications using modern JavaScript technologies like **React**, **Node.js**
 - Scalable, well-structured backend systems with clean API design  
 - Interfaces that prioritize usability, accessibility, and performance  
 - Developer tools and utilities that improve workflow and reduce friction

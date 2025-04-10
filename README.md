@@ -32,20 +32,21 @@ I believe good code is like good design — invisible when it works right.
 Here are some of the projects I've built from scratch:
 
 #### 🧑‍💼 **User Explorer**
-A modern frontend application built entirely with **vanilla JavaScript** – no frameworks.  
-Browse, search, sort, and favorite users with persistent settings (theme, sorting, favorites) saved in `localStorage`.  
-Includes custom UI components, dark mode, a loading spinner, and unit tests – all written in native JS.
+Single-page app built with **vanilla JavaScript** (no frameworks).  
+Browse, search, sort, and favorite users — preferences saved in `localStorage`.  
+Includes custom UI, dark mode, loading spinner, and native unit tests.
 
-**Stack:** HTML5, CSS3, ES6 Modules, Axios, LocalStorage, Vanilla JS Unit Tests 
+**Stack:** JavaScript (ES6), HTML5, CSS3, Axios, LocalStorage, Unit Testing (Vanilla JS)
 🔗 [View on GitHub](https://github.com/Kornetas/user-explorer)
 
 
 ---
 
-#### 🛡️ **Api-Forge**
-Node.js REST API with user authentication, JWT, roles, and product management – fully tested with Jest. 
+#### 🛡️ Api-Forge  
+Backend REST API for user authentication, role-based access, and product management — fully tested with **Jest** and **Supertest**.  
+Includes JWT-based auth, hashed passwords, and structured controller/services logic.
 
-**Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest + Supertest
+**Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest, Supertest  
 🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
 
 ---

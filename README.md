@@ -25,6 +25,8 @@ I believe good code is like good design — invisible when it works right.
 
 ### 🧪 Featured Projects
 
+---
+
 #### 🧑‍💼 **User Explorer**
 A modern frontend application built entirely with **vanilla JavaScript** – no frameworks.  
 Browse, search, sort, and favorite users with persistent settings (theme, sorting, favorites) saved in `localStorage`.  
@@ -38,14 +40,11 @@ Includes custom UI components, dark mode, a loading spinner, and unit tests – 
 
 #### 🗂️ **Api-Forge**
 Node.js REST API with user authentication, JWT, roles, and product management – fully tested with Jest. 
+
 **Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest + Supertest
 🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kornetas&show_icons=true&theme=tokyonight" />
-</p>
 
 
 <h3 align="left">Connect with me:</h3>

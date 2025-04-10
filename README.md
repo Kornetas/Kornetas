@@ -46,7 +46,7 @@ Includes custom UI, dark mode, loading spinner, and native unit tests.
 Backend REST API for user authentication, role-based access, and product management — fully tested with **Jest** and **Supertest**.  
 Includes JWT-based auth, hashed passwords, and structured controller/services logic.
 
-**Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest, Supertest  
+**Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest, Supertest
 🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
 
 ---

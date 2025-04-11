@@ -27,7 +27,6 @@ I believe good code is like good design — invisible when it works right.
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-#### 🧑‍🎨 Frontend
 
 #### 🧑‍🎨 Frontend
 

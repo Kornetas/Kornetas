@@ -24,6 +24,7 @@ I believe good code is like good design — invisible when it works right.
 
 ### 🛠️ Languages & Tools
 
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 #### 🧑‍🎨 Frontend
@@ -74,7 +75,7 @@ I believe good code is like good design — invisible when it works right.
 
 ---
 
-#### 🚀 Deployment & DevOps
+#### ☁️ Deployment & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)

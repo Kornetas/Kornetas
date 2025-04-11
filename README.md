@@ -47,6 +47,7 @@ I believe good code is like good design — invisible when it works right.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Morgan](https://img.shields.io/badge/Morgan-003366?style=flat&logo=nodedotjs&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=flat&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -59,6 +60,7 @@ I believe good code is like good design — invisible when it works right.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-0A0A0A?style=flat&logo=knex&logoColor=white)
 
 ---
 
@@ -72,6 +74,7 @@ I believe good code is like good design — invisible when it works right.
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+![HTTPie](https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white)
 
 ---
 
@@ -84,6 +87,7 @@ I believe good code is like good design — invisible when it works right.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 

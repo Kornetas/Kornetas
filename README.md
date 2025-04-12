@@ -54,7 +54,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/RESTful_API-005571?style=flat&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
      </td>
   </tr>

@@ -1,4 +1,4 @@
-<p align="center">Full Stack Web Developer • Passionate about clean code & real-world solutions</p>
+<p align="center"><strong>Full Stack Web Developer • Passionate about clean code & real-world solutions</strong></p>
 
 ---
 

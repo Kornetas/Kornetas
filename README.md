@@ -40,6 +40,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/Yup-4B5563?style=flat&logo=yup&logoColor=white">
       <img src="https://img.shields.io/badge/Morgan-003366?style=flat&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/bcrypt-121212?style=flat&logo=lock&logoColor=white">
     </td>
   </tr>
   <tr>

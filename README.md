@@ -141,3 +141,5 @@ Includes JWT-based auth, hashed passwords, and structured controller/services lo
 🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
 
 ---
+
+[User Explorer](https://github.com/Kornetas/user-explorer)

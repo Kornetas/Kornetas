@@ -58,7 +58,7 @@ I believe good code is like good design — invisible when it works right.
  
 ---
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Query Tools  
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -67,7 +67,7 @@ I believe good code is like good design — invisible when it works right.
 
 ---
 
-#### 🧪 Testing
+#### 🧪 Testing & Debugging
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
@@ -81,7 +81,7 @@ I believe good code is like good design — invisible when it works right.
 
 ---
 
-#### ☁️ Deployment & DevOps
+#### ☁️ Deployment & Dev Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)

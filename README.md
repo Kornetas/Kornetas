@@ -1,5 +1,3 @@
-<h1 align="center">Hey, I'm Aric</h1>
-<p align="center"><i>(a.k.a. Arkadiusz Rak)</i></p>
 <p align="center">Full Stack Web Developer • Passionate about clean code & real-world solutions</p>
 
 ---

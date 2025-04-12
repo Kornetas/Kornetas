@@ -59,7 +59,7 @@ I believe good code is like good design — invisible when it works right.
      </td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
+    <td><strong>Databases & Query Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">

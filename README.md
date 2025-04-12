@@ -33,20 +33,20 @@ I believe good code is like good design — invisible when it works right.
   <tr>
     <td><strong>Libraries</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/Yup-4B5563?style=flat&logo=yup&logoColor=white">
       <img src="https://img.shields.io/badge/Morgan-003366?style=flat&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
       <img src="https://img.shields.io/badge/bcrypt-121212?style=flat&logo=lock&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
       <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
@@ -54,8 +54,8 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
       <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
     </td>
   </tr>
   <tr>

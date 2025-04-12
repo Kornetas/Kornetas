@@ -113,6 +113,7 @@ Here are some of the projects I've built from scratch:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=api-forge&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
 </a>
 
+<table>
 <tr>
   <td><strong>Frameworks</strong></td>
   <td>
@@ -130,3 +131,4 @@ Here are some of the projects I've built from scratch:
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   </td>
 </tr>
+ </table>

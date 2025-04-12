@@ -120,7 +120,9 @@ I believe good code is like good design — invisible when it works right.
 
 Here are some of the projects I've built from scratch:
 
-
+<a href="https://github.com/Kornetas/user-explorer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=user-explorer&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
+</a>
 
 <a href="https://github.com/Kornetas/api-forge">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=api-forge&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">

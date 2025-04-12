@@ -69,7 +69,7 @@ I believe good code is like good design — invisible when it works right.
     </td>
   </tr>
   <tr>
-    <td><strong>Testing</strong></td>
+    <td><strong>Testing & Debugging</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
       <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white">
@@ -77,11 +77,6 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoft&logoColor=white">
       <img src="https://img.shields.io/badge/Supertest-333333?style=flat">
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Debugging</strong></td>
-    <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white">
       <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white">
@@ -89,30 +84,20 @@ I believe good code is like good design — invisible when it works right.
     </td>
   </tr>
   <tr>
-    <td><strong>Dev Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Version Control</strong></td>
+    <td><strong>Deployment & Dev Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Hosting & CI/CD</strong></td>
-    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white">
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black">
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
     </td>
   </tr>
-</table>
+ </table>
 
 ---
 

@@ -99,8 +99,6 @@ I believe good code is like good design — invisible when it works right.
   </tr>
  </table>
 
----
-
 ## 🚀 Projects
 
 Here are some of the projects I've built from scratch:

@@ -39,6 +39,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/Yup-4B5563?style=flat&logo=yup&logoColor=white">
+      <img src="https://img.shields.io/badge/Morgan-003366?style=flat&logo=nodedotjs&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -53,8 +54,9 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -64,6 +66,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
       <img src="https://img.shields.io/badge/Knex.js-0A0A0A?style=flat&logo=knex&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
     </td>
   </tr>
   <tr>

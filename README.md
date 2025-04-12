@@ -114,34 +114,11 @@ I believe good code is like good design — invisible when it works right.
   </tr>
 </table>
 
-
-
 ---
 
 ## 🚀 Projects
 
 Here are some of the projects I've built from scratch:
-
-#### 🧑‍💼 **User Explorer**
-Single-page app built with **vanilla JavaScript** (no frameworks).  
-Browse, search, sort, and favorite users — preferences saved in `localStorage`.  
-Includes custom UI, dark mode, loading spinner, and native unit tests.
-
-**Stack:** JavaScript (ES6), HTML5, CSS3, Axios, LocalStorage, Unit Testing (Vanilla JS)
-🔗 [View on GitHub](https://github.com/Kornetas/user-explorer)
-
-
----
-
-#### 🛡️ Api-Forge  
-Backend REST API for user authentication, role-based access, and product management — fully tested with **Jest** and **Supertest**.  
-Includes JWT-based auth, hashed passwords, and structured controller/services logic.
-
-**Stack:** Node.js, Express, MongoDB, JWT, Bcrypt, Jest, Supertest
-🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
-
----
-## 🧩 Projects
 
 <a href="https://github.com/Kornetas/user-explorer">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=user-explorer&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
@@ -150,4 +127,3 @@ Includes JWT-based auth, hashed passwords, and structured controller/services lo
 <a href="https://github.com/Kornetas/api-forge">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=api-forge&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
 </a>
-

@@ -141,5 +141,18 @@ Includes JWT-based auth, hashed passwords, and structured controller/services lo
 🔗 [View on GitHub](https://github.com/Kornetas/api-forge)
 
 ---
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/Kornetas/user-explorer">User Explorer</a></h3>
+      <p>Single-page app with Vanilla JS. Preferences saved in localStorage.</p>
+      <p><strong>Stack:</strong> JavaScript, HTML5, CSS3, Axios, LocalStorage</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/Kornetas/api-forge">Api-Forge</a></h3>
+      <p>Backend API for auth, product management — JWT, Jest, Supertest.</p>
+      <p><strong>Stack:</strong> Node.js, Express, MongoDB, JWT, Supertest</p>
+    </td>
+  </tr>
+</table>
 
-[User Explorer](https://github.com/Kornetas/user-explorer)

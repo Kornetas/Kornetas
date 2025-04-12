@@ -74,12 +74,12 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white">
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoft&logoColor=white">
       <img src="https://img.shields.io/badge/Supertest-333333?style=flat">
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><strong>Debugging</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white">
       <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white">

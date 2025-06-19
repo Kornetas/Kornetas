@@ -47,7 +47,6 @@ I believe good code is like good design — invisible when it works right.
     <td><strong>Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
@@ -70,14 +69,13 @@ I believe good code is like good design — invisible when it works right.
     <td><strong>Testing & Debugging</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
-      <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white">
       <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white">
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoft&logoColor=white">
       <img src="https://img.shields.io/badge/Supertest-333333?style=flat">
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-      <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white">
+      <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white">
+      <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white"><br>
       <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white">
     </td>
   </tr>

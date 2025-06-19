@@ -75,8 +75,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white">
-      <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white">
+      <img src="https://img.shields.io/badge/HTTPie-222222?style=flat&logo=httpie&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -85,7 +84,6 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white">
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black">
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">

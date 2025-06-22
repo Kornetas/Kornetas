@@ -89,6 +89,7 @@ I believe good code is like good design — invisible when it works right.
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
     </td>
   </tr>
  </table>
@@ -97,16 +98,16 @@ I believe good code is like good design — invisible when it works right.
 
 ## 🚀 Projects
 
-<p><strong>Here are some of the projects I've built from scratch:</strong></p>
-
-<a href="https://github.com/Kornetas/movie-watchlist">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=movie-watchlist&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
+<a href="https://github.com/Kornetas/asylum-hrf-fe-starter">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=asylum-hrf-fe-starter&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/Kornetas/user-explorer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=user-explorer&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
+<a href="https://github.com/Kornetas/portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=portfolio&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/Kornetas/api-forge">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kornetas&repo=api-forge&title_color=fe428e&text_color=ffffff&icon_color=c4bdb8&bg_color=151515" style="max-width: 100%;">
 </a>
+
+ ---

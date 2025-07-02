@@ -35,6 +35,7 @@ I believe good code is like good design — invisible when it works right.
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
+      <img src="https://img.shields.io/badge/Zustand-353433?style=flat&logo=zustand&logoColor=white">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/Yup-4B5563?style=flat&logo=yup&logoColor=white">
